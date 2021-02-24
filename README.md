@@ -52,10 +52,10 @@ project.config contains the configuration for the whole application
 
 For abstractive text generation using BERT, the prediction file should be of the following format:
 
-Q: <question text>
+Q: <question text>\n
 A: <span answer text>
 
-Q: <question text>
+Q: <question text>\n
 A: <span answer text>
 .
 .
