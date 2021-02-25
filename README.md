@@ -1,11 +1,11 @@
-1) Source code for the Baseline model was not available and hence, this was implemented completely from scratch.
+1)Source code for the Baseline model was not available and hence, this was implemented completely from scratch.
 OpenNmt library was used for PgNet abstractive generation - https://github.com/OpenNMT/OpenNMT-py/tree/c199de0fb738c33c02c76a392005e94f6b89add3
 URL for BERT Abstractive generation - https://colab.research.google.com/drive/1MxKZGtQ9SSBjTK5ArsZ5LKhkztzg52RV
 
-2) For BERT Abstractive generation following files were created by referring to the above collab resource
+2)For BERT Abstractive generation following files were created by referring to the above collab resource
 	a) bert_gen.py - abstract_text
 
-3) Commands
+3)Commands:
 
 a) Train Extractive model - python test.py
 
@@ -19,7 +19,7 @@ d) BLEU calculation - python calc_blue.py
 
 
 
-4) pytorch-1.3.1, pytorch_pretrained_bert-0.6.2, ijson - 2.5.1, configparser-4.0.2, pandas0.25.3, GPUtil-1.4.0, matplotlib - 3.1.1, numpy1.17.2, nltk - 3.4.5, scipy-1.3.3
+4)pytorch-1.3.1, pytorch_pretrained_bert-0.6.2, ijson - 2.5.1, configparser-4.0.2, pandas0.25.3, GPUtil-1.4.0, matplotlib - 3.1.1, numpy1.17.2, nltk - 3.4.5, scipy-1.3.3
 
 
 Miscelleneous:
