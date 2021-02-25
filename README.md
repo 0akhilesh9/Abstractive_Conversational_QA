@@ -6,10 +6,15 @@ URL for BERT Abstractive generation - https://colab.research.google.com/drive/1M
 	a) bert_gen.py - abstract_text
 
 3) Commands
+
 a) Train Extractive model - python test.py
+
 b) predict Extractive model - python predict.py
+
 Ex - python predict.py --write_pred_file Results/Pred_GPUmodel.txt --model saved_models/resources_GPUmodel.pth --test_size 50
+
 c) BERT abstractive layer prediction - please see below
+
 d) BLEU calculation - python calc_blue.py
 
 
